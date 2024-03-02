@@ -60,7 +60,3 @@
 ![Snake animation](https://raw.githubusercontent.com/codewithnaman28/codewithnaman28/output/snake.svg)
 
 ###
-
-<div align="center"><a href="https://open.spotify.com/user/qgpd0exsownsar4ec4mnlwbx2"><img src="https://spotify-recently-played-readme.vercel.app/api?user=qgpd0exsownsar4ec4mnlwbx2&count=5&unique=false" alt="Spotify recently played"  /></a></div>
-
-###
