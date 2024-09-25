@@ -56,7 +56,8 @@
 <!-- markdownlint-disable MD033 -->
 <div style="clear:both;"></div>
 <!-- markdownlint-enable MD033 -->
-
-![Snake animation](https://raw.githubusercontent.com/codewithnaman28/codewithnaman28/output/snake.svg)
-
+### Visitor Count
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{0xM1cx}/count.svg" alt="0xM1cx :: Visitor's Count" /></a>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 ###
