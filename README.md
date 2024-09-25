@@ -50,4 +50,4 @@
   <img src="https://profile-counter.glitch.me/codewithnaman28/count.svg" alt="Visitor Count" />
 </p>
 
-<img src="https://github.com/codewithnaman28/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
